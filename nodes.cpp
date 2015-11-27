@@ -26,6 +26,7 @@ public:
     double Delta;
     //NODE(int NoOfNodes);
     //double * get_weights();
+    
    // double get_output();
     int WeightSize;
     NODE(int NoOfNodes){
@@ -40,7 +41,7 @@ double get_output(){
     return Output;
 }
 };
-
+//
 
 
 
