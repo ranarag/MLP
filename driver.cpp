@@ -13,7 +13,7 @@ for(int i=0;i<4;i++){
 
 
     /*cin>>x>>y>>z;
-    Input[i][0]=x;
+    
     Input[i][1]=y;
     Output[i][0]=z;*/
 }
