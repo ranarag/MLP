@@ -52,4 +52,4 @@ double* LAYER::OutputVector(){
         v[i]=Node[i].Output;
     return v;
 }
-
+//
